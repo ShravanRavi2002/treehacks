@@ -1,0 +1,27 @@
+{
+  "name": "openai-quickstart-node",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "fs": "^0.0.1-security",
+    "latex.js": "^0.12.4",
+    "next": "^13.1.1",
+    "openai": "^3.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^18.2.0",
+    "react-latex-next": "^2.2.0",
+    "svg.js": "^2.7.1",
+    "svgdom": "^0.1.13",
+    "texlive": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=14.6.0"
+  }
+}
